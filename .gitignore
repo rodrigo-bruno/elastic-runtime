@@ -1,3 +1,6 @@
 editinfo
 target/
 *.class
+catalina.out
+container.cid
+run.log
