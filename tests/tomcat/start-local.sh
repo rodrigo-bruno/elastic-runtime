@@ -1,8 +1,8 @@
 #!/bin/bash
 
 work=/home/rbruno/git
-jvm=$work/jdk11/build/linux-x86_64-normal-server-release/jdk
-java=$jvm/bin/java
+#jvm=$work/jdk11/build/linux-x86_64-normal-server-release/jdk
+#java=$jvm/bin/java
 
 ert=$work/elastic-runtime/target/ert-0.0.1-SNAPSHOT.jar
 
